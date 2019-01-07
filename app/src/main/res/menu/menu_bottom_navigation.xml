@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_pesquisa"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Pesquisa"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_carrinho"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="Carrinho"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_usuario"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Usuario"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_logo_cadastro">130dp</dimen>
+    <dimen name="altura_logo_cadastro">105dp</dimen>
+    <dimen name="largura_logo_login">0dp</dimen>
+    <dimen name="altura_logo_login">240dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953990651477",
+    "firebase_url": "https://first-ladys-kit-9349a.firebaseio.com",
+    "project_id": "first-ladys-kit-9349a",
+    "storage_bucket": "first-ladys-kit-9349a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953990651477:android:a19a0a7b8b693784",
+        "android_client_info": {
+          "package_name": "br.com.apptg.apptg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953990651477-pl14lrohen8tl00kghqca0al000m4fs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.apptg.apptg",
+            "certificate_hash": "5612eee3aa37e228a963a85ee35afa3ba963b37e"
+          }
+        },
+        {
+          "client_id": "953990651477-9vp387su0bghlc2b105vbj6djhm6ld9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZwSuZ2sMjVWC443KPNuetssYUlWLh28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953990651477-9vp387su0bghlc2b105vbj6djhm6ld9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
