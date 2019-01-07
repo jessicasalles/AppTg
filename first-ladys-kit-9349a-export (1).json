@@ -1,0 +1,603 @@
+{
+  "carrinhoCompras": {
+    "3BGGHC6f7qeE6gZfN56K0EEzsmN2": {
+      "informaçõesUsuario": {
+        "idPedido": "-LTh0dWRrFNofRqxezxS",
+        "idUsuario": "3BGGHC6f7qeE6gZfN56K0EEzsmN2",
+        "metodoPagamento": 0,
+        "nomeUsuario": "x",
+        "status": "pendente"
+      }
+    },
+    "DPIsPCOnmtPaUgvVCaDuuu04dqh1": {
+      "informaçõesUsuario": {
+        "idPedido": "-LVeJxS2YVnuIWH0H8GP",
+        "idUsuario": "DPIsPCOnmtPaUgvVCaDuuu04dqh1",
+        "metodoPagamento": 0,
+        "nomeUsuario": "Jessica",
+        "status": "pendente"
+      }
+    },
+    "NndjoWdq5SSH9P4w3FI0DygOx2D2": {
+      "informaçõesUsuario": {
+        "idPedido": "-LTieJJb6-foLk8STPgN",
+        "idUsuario": "NndjoWdq5SSH9P4w3FI0DygOx2D2",
+        "metodoPagamento": 0,
+        "nomeUsuario": "Jéssica Salles",
+        "status": "pendente"
+      }
+    }
+  },
+  "comprasEfetuadas": {
+    "3BGGHC6f7qeE6gZfN56K0EEzsmN2": {
+      "informaçõesUsuario": {
+        "idPedido": "-LTglYfVWKsYc8SZ-SFS",
+        "idUsuario": "3BGGHC6f7qeE6gZfN56K0EEzsmN2",
+        "metodoPagamento": 0,
+        "nomeUsuario": "x",
+        "status": "confirmado"
+      },
+      "minhasCompras": {
+        "-LTglYfVWKsYc8SZ-SFS": [
+          {
+            "idProduto": "-LTglXlG7egl0EQXMxkF",
+            "nomeProduto": "Grampos escuros",
+            "preco": 5.49,
+            "quantidade": 1
+          }
+        ]
+      }
+    },
+    "DPIsPCOnmtPaUgvVCaDuuu04dqh1": {
+      "informaçõesUsuario": {
+        "idPedido": "-LTcuc3OeiJWr1Sf8UMd",
+        "idUsuario": "DPIsPCOnmtPaUgvVCaDuuu04dqh1",
+        "metodoPagamento": 1,
+        "nomeUsuario": "Jessica",
+        "status": "confirmado"
+      },
+      "minhasCompras": {
+        "-LSooyLwjIh_-bsmWGfC": [
+          {
+            "idProduto": "-LSooxXQg-O4mUxvzint",
+            "nomeProduto": "Cotonete Cotton",
+            "preco": 3.29,
+            "quantidade": 1
+          }
+        ],
+        "-LTcuc3OeiJWr1Sf8UMd": [
+          {
+            "idProduto": "-LT3xmGEWTe_WaLV3-Gc",
+            "nomeProduto": "Elástico",
+            "preco": 2.99,
+            "quantidade": 1
+          },
+          {
+            "idProduto": "-LT3xmGHIvnBNAGTV1HO",
+            "nomeProduto": "Grampos escuros",
+            "preco": 5.49,
+            "quantidade": 2
+          },
+          {
+            "idProduto": "-LTcttFw8ER5KIQZd4JG",
+            "nomeProduto": "Grampos escuros",
+            "preco": 5.49,
+            "quantidade": 1
+          },
+          {
+            "idProduto": "-LTcttFxnQ82A_bFmw4g",
+            "nomeProduto": "Shampoo Pantene Liso Extremo",
+            "preco": 8.29,
+            "quantidade": 34
+          },
+          {
+            "idProduto": "-LTcttFyeYiO3ve3zXGc",
+            "nomeProduto": "Touca Para Banho Marco Boni",
+            "preco": 2.3,
+            "quantidade": 1
+          },
+          {
+            "idProduto": "-LTcu9i1Si47j1WSb5U1",
+            "nomeProduto": "Batom Vult 34",
+            "preco": 15.95,
+            "quantidade": 1
+          },
+          {
+            "idProduto": "-LTcuGktUWDiYho8QSZ3",
+            "nomeProduto": "Escova Dental Johnson & Johnson Ultra CLean Média",
+            "preco": 2.89,
+            "quantidade": 12
+          },
+          {
+            "idProduto": "-LTcuInGxO0EKTwYHunt",
+            "nomeProduto": "Fio Dental Johnson & Johnson",
+            "preco": 7.29,
+            "quantidade": 2
+          },
+          {
+            "idProduto": "-LTcuLGsdYvwLHmvUZdG",
+            "nomeProduto": "Pasta de Dente Colgate Máxima Proteção Anticáries",
+            "preco": 3.98,
+            "quantidade": 5
+          },
+          {
+            "idProduto": "-LTcuPcy1opXAQF5Ouuw",
+            "nomeProduto": "Base Vult 02 Liquida",
+            "preco": 25.95,
+            "quantidade": 1
+          },
+          {
+            "idProduto": "-LTcuUwvcwPwI36zO4N8",
+            "nomeProduto": "Preservativo Jontex Lubrificado",
+            "preco": 5.39,
+            "quantidade": 69
+          },
+          {
+            "idProduto": "-LTcuYENiSxwEC84uYhB",
+            "nomeProduto": "Máscara Para Cilios Vult Bombastic Volume",
+            "preco": 39.9,
+            "quantidade": 7
+          }
+        ]
+      }
+    },
+    "NndjoWdq5SSH9P4w3FI0DygOx2D2": {
+      "informaçõesUsuario": {
+        "idPedido": "-LTiYge_gxSBN1PzSZze",
+        "idUsuario": "NndjoWdq5SSH9P4w3FI0DygOx2D2",
+        "metodoPagamento": 0,
+        "nomeUsuario": "Jéssica Salles",
+        "status": "confirmado"
+      },
+      "minhasCompras": {
+        "-LTiYge_gxSBN1PzSZze": [
+          {
+            "idProduto": "-LTiYPhzyA_zVYlnPBSE",
+            "nomeProduto": "Grampos escuros",
+            "preco": 5.49,
+            "quantidade": 1
+          },
+          {
+            "idProduto": "-LTiYSmeR1DKo5kG9AqS",
+            "nomeProduto": "Shampoo Dove Reconstrução Completa",
+            "preco": 14.75,
+            "quantidade": 2
+          },
+          {
+            "idProduto": "-LTiYea_m2WhFCrkx_ld",
+            "nomeProduto": "Desodorante Rexona Sem Perfume Roll On",
+            "preco": 6.15,
+            "quantidade": 1
+          }
+        ]
+      }
+    }
+  },
+  "produtos": {
+    "1 CAB ELAS NRM": {
+      "categoria": "Cabelo",
+      "departamento": "Acessórios",
+      "descricao": "Elástico Xuxinha Rabico Para Cabelo Tipo Meia",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Felasticonormal_2.jpg?alt=media&token=2ffad12d-245b-41a5-a638-9a4ce9fe1490",
+      "pesquisa": "ELASTICO",
+      "preco": 2.99,
+      "titulo": "Elástico"
+    },
+    "1 CAB ELAS SIL": {
+      "categoria": "Cabelo",
+      "departamento": "Acessórios",
+      "descricao": "Elásticos de cabelo tipo silicone",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Felasticosilicone.jpg?alt=media&token=fc572e58-0c61-455b-b7f2-011f1e4fb572",
+      "pesquisa": "ELASTICO",
+      "preco": 1.19,
+      "titulo": "Elástico de silicone"
+    },
+    "1 CAB GRMP ESC": {
+      "categoria": "Cabelo",
+      "departamento": "Acessórios",
+      "descricao": "Grampos de aço Temoso para cabelos tipo escuro",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fgrampocabeloescuro_4.jpg?alt=media&token=cf2074a2-738b-404f-b6c9-9339a09a7dc4",
+      "pesquisa": "GRAMPO",
+      "preco": 5.49,
+      "titulo": "Grampos escuros"
+    },
+    "1 CAB GRMP LOI": {
+      "categoria": "Cabelo",
+      "departamento": "Acessórios",
+      "descricao": "Grampos de aço Temoso para cabelos tipo loiro",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fgrampocabeloclaro.jpg?alt=media&token=25d9b1f5-5c75-4f39-90ce-a565af42bca0",
+      "pesquisa": "GRAMPO",
+      "preco": 5.49,
+      "titulo": "Grampos escuros"
+    },
+    "2 BOC ESCV JHN SMP": {
+      "categoria": "Boca",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Escova Dental Johnson & Johnson Ultra CLean Média",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fescovadedentejohnsons.jpg?alt=media&token=d5d1553e-3651-4087-9f71-e22cb4a3584c",
+      "pesquisa": "ESCOVA",
+      "preco": 2.89,
+      "titulo": "Escova Dental Johnson & Johnson Ultra CLean Média"
+    },
+    "2 BOC ESCV ORL SMP": {
+      "categoria": "Boca",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Escova Dental Oral B Indicator Plus Macia",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fescovadedenteoralb.jpg?alt=media&token=b1368af1-e3d1-428c-9bc3-7941ba4e3898",
+      "pesquisa": "ESCOVA",
+      "preco": 6.4,
+      "titulo": "Escova Dental Oral B Indicator Plus Macia"
+    },
+    "2 BOC FIO JHN NRM": {
+      "categoria": "Boca",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Fio Dental Johnson & Johnson Reach Juá 100m",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Ffiodentaljohnsons.jpg?alt=media&token=8f80ca1e-ddb5-407d-a539-09d1098c9d49",
+      "pesquisa": "FIO DENTAL",
+      "preco": 7.29,
+      "titulo": "Fio Dental Johnson & Johnson"
+    },
+    "2 BOC PAST COL SMP": {
+      "categoria": "Boca",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Pasta de Dente Colgate Máxima Proteção Anticáries",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fpastadedentecolgate_4.jpg?alt=media&token=d732feb7-0862-444f-bd51-2e9e70ae76f4",
+      "pesquisa": "PASTA",
+      "preco": 3.98,
+      "titulo": "Pasta de Dente Colgate Máxima Proteção Anticáries"
+    },
+    "2 BOC PAST CUP SMP": {
+      "categoria": "Boca",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Pasta de Dente Closeup Triple Menta",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fpastadedentecloseup_2.jpg?alt=media&token=2106c02d-1aa1-4c64-9f2b-d81ba415c5a1",
+      "pesquisa": "PASTA",
+      "preco": 3.39,
+      "titulo": "Pasta de Dente Closeup Triple Menta"
+    },
+    "2 CAB COND DOV": {
+      "categoria": "Cabelo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Condicionador Dove Reconstrução Completa 200ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fcondicionadordove.jpg?alt=media&token=911d4fc3-a186-4500-b846-62a76cd496f2",
+      "pesquisa": "CONDICIONADOR",
+      "preco": 9.2,
+      "titulo": "Condicionador Dove Reconstrução Completa"
+    },
+    "2 CAB COND PANT": {
+      "categoria": "Cabelo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Condicionador Pantene Restauração 400ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fcondicionadorpantene.jpg?alt=media&token=ef4d8d67-cfb0-4239-977c-e5f036efd127",
+      "pesquisa": "CONDICIONADOR",
+      "preco": 15.49,
+      "titulo": "Condicionador Pantene Restauração"
+    },
+    "2 CAB SHAM DOV": {
+      "categoria": "Cabelo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Shampoo Dove Reconstrução Completa 400ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fshampoodove.jpg?alt=media&token=2c8911b3-3099-414c-b730-243ac1a26f99",
+      "pesquisa": "SHAMPOO",
+      "preco": 14.75,
+      "titulo": "Shampoo Dove Reconstrução Completa"
+    },
+    "2 CAB SHAM PANT": {
+      "categoria": "Cabelo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Shampoo Pantene Liso Extremo 175ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fshampoopantene.jpg?alt=media&token=587c0bbb-da21-46ae-be17-fefb52e4dffe",
+      "pesquisa": "SHAMPOO",
+      "preco": 8.29,
+      "titulo": "Shampoo Pantene Liso Extremo"
+    },
+    "2 CAB TOU SMP": {
+      "categoria": "Cabelo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Touca Para Banho Marco Boni - 1 Unidade",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Ftoucadebanhosimples_3.jpg?alt=media&token=564e5829-31fd-49fd-b41d-85c1c39b31e9",
+      "pesquisa": "TOUCA",
+      "preco": 2.3,
+      "titulo": "Touca Para Banho Marco Boni"
+    },
+    "2 CRP ABS INTM NOT": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Absorvente Intimus Gel Noturno Cobertura Suave Com Abas - 8 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fabsorventeintimusnoturno_4.jpg?alt=media&token=735e8788-37b7-418f-ac17-ccc0c3dac623",
+      "pesquisa": "ABSORVENTE",
+      "preco": 4.49,
+      "titulo": "Absorvente Intimus Noturno c/abas"
+    },
+    "2 CRP ABS INTM NRM": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Absorvente Externo Intimus Tripla Proteção Suave C/Abas - 8 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fabsorventeintimusnormal_3.jpg?alt=media&token=5c91caa6-6b53-4c69-a341-d0d36d09235c",
+      "pesquisa": "ABSORVENTE",
+      "preco": 3.29,
+      "titulo": "Absorvente Intimus Normal c/abas"
+    },
+    "2 CRP ABS OB INT": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Absorvente OB Interno Original Médio - 10 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fabsorventeob_3.jpg?alt=media&token=55d612ef-ac18-43c7-b761-6e19a02d27ef",
+      "pesquisa": "ABSORVENTE",
+      "preco": 9.49,
+      "titulo": "Absorvente OB Original"
+    },
+    "2 CRP ABS SMPLVR ADPT": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Absorvente Sempre Livre Adapt Termo Control Com Abas - 8 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fabsorventesemprelivreadapt_2.jpg?alt=media&token=d0b8fee8-cc80-419e-9b3e-5ecbf31febcb",
+      "pesquisa": "ABSORVENTE",
+      "preco": 3.29,
+      "titulo": "Absorvente Sempre Livre Adapt c/abas"
+    },
+    "2 CRP CAM JTX": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Preservativo Jontex Lubrificado - 3 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fcamisinhajontex.jpg?alt=media&token=262a83fd-c840-40bd-b357-6a072a2c45e4",
+      "pesquisa": "PRESERVATIVO",
+      "preco": 4.99,
+      "titulo": "Preservativo Jontex Lubrificado"
+    },
+    "2 CRP CAM OLL": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Preservativo Olla Lubrificado - 3 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fcamisinhaolla.jpg?alt=media&token=07d471bb-90c2-4a7c-9669-9cb72c48d531",
+      "pesquisa": "PRESERVATIVO",
+      "preco": 5.39,
+      "titulo": "Preservativo Jontex Lubrificado"
+    },
+    "2 CRP COT HTOP 75": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Cotonete Higie Topp Cotton Line Flexíveis - 75 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fcotonete.jpg?alt=media&token=f9103421-4f27-485d-8502-51ba64a7aa50",
+      "pesquisa": "COTONETE",
+      "preco": 2.49,
+      "titulo": "Cotonete Cotton Line"
+    },
+    "2 CRP DESO DOV NRM": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Desodorante Dove Original Aerosol 89g",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fdesodorantedovenormal.jpg?alt=media&token=b6f5b208-ae80-4e2a-8218-235d436066ca",
+      "pesquisa": "DESODORANTE",
+      "preco": 14.99,
+      "titulo": "Desodorante Dove Original Aerosol"
+    },
+    "2 CRP DESO REX CP": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Desodorante Rexona Powder Women Aerossol Comprimido 56g",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fdesodoranterexonacomprimido.jpg?alt=media&token=8a3427e1-f962-4fd0-bed6-868d380f3167",
+      "pesquisa": "DESODORANTE",
+      "preco": 11.55,
+      "titulo": "Desodorante Rexona Powder Aerossol Comprimido"
+    },
+    "2 CRP DESO REX ROLL": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Desodorante Rexona Sem Perfume Roll On 50ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fdesodoranterexonarollon.jpg?alt=media&token=bac567ae-7fb2-4a02-9ecc-02308da7b9e9",
+      "pesquisa": "DESODORANTE",
+      "preco": 6.15,
+      "titulo": "Desodorante Rexona Sem Perfume Roll On"
+    },
+    "2 CRP GILL BIC SMP": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Aparelho Depilatório Bic Comfort - 2 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fgiletebicsimples_3.jpg?alt=media&token=b64bb883-dc30-441e-8ef8-c2582abe193e",
+      "pesquisa": "GILETE",
+      "preco": 3.2,
+      "titulo": "Aparelho Depilatório Bic Comfort"
+    },
+    "2 CRP GILL PREST NRM": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Aparelho Para Depilar Gillette Prestobarba Ug Móvel Women - 2 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fgileteprestobarbasimples.jpg?alt=media&token=a3c51adf-fc8a-44db-bace-f478222b6476",
+      "pesquisa": "GILETE",
+      "preco": 7.8,
+      "titulo": "Aparelho Para Depilar Gillette Prestobarba"
+    },
+    "2 CRP GILL VEM NRM": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Cotonete Higie Topp Cotton Line Flexíveis - 75 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fgiletevenus.jpg?alt=media&token=b324cbff-2bad-40e8-8de6-b8b71bb80d10",
+      "pesquisa": "GILETE",
+      "preco": 28.89,
+      "titulo": "Gillette Venus Embrace"
+    },
+    "2 CRP SAB DOV": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Sabonete Dove Original 90g",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fsabonetedove_3.jpg?alt=media&token=7eda7941-af42-4a1b-be25-155d46806788",
+      "pesquisa": "SABONETE",
+      "preco": 4.7,
+      "titulo": "Sabonete Dove Original"
+    },
+    "2 CRP SAB JHN": {
+      "categoria": "Corpo",
+      "departamento": "Cuidados Pessoais",
+      "descricao": "Sabonete Johnson & Johnson Reviva 90g",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fsabonetejohnsons_4.jpg?alt=media&token=99a43e79-c64e-4656-ae84-48257bf9c669",
+      "pesquisa": "SABONETE",
+      "preco": 1.2,
+      "titulo": "Sabonete Johnson & Johnson Reviva"
+    },
+    "3 MAQ BAS VULT": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Base Vult 02 Liquida 35ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fbasevult.jpg?alt=media&token=b47b5ceb-6e1c-4dca-acc9-4752698026a5",
+      "pesquisa": "BASE",
+      "preco": 25.95,
+      "titulo": "Base Vult 02 Liquida"
+    },
+    "3 MAQ BAT1 VULT": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Batom Vult 37",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fvult-14-90-3.PNG?alt=media&token=52d3da8a-deee-479d-8326-3de306751e5c",
+      "pesquisa": "BATOM",
+      "preco": 15.95,
+      "titulo": "Batom Vult 37"
+    },
+    "3 MAQ BAT2 VULT": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Batom Vult 34",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fvult-14-19.PNG?alt=media&token=fd02e019-07c0-429b-bada-817da3e86060",
+      "pesquisa": "BATOM",
+      "preco": 15.95,
+      "titulo": "Batom Vult 34"
+    },
+    "3 MAQ BLU VULT": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Blush Vult Compacto Mosaico",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fblushvult_3.jpg?alt=media&token=f1dc87f3-2889-4f1c-a610-a4711df0ca3d",
+      "pesquisa": "BLUSH",
+      "preco": 45,
+      "titulo": "Blush Vult Compacto Mosaico"
+    },
+    "3 MAQ DEL VULT": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Delineador Líquido Caneta Vult Preto 3ml",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fdelineadorvult.jpg?alt=media&token=61a3b92c-8f05-4f8a-880e-4a808b2521df",
+      "pesquisa": "DELINEADOR",
+      "preco": 31.95,
+      "titulo": "Delineador Líquido Caneta Vult Preto"
+    },
+    "3 MAQ LEN NIV": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Lenços De Limpeza E Demaquilante Nivea 3 Em 1 - 7 unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Flencomaquiagemnivea_3.jpg?alt=media&token=12ff32f2-6d01-4cac-8ec9-797f604736d3",
+      "pesquisa": "DEMAQUILANTE",
+      "preco": 6.69,
+      "titulo": "Lenços De Limpeza E Demaquilante Nivea 3 Em 1"
+    },
+    "3 MAQ RIM VULT": {
+      "categoria": "Maquiagem",
+      "departamento": "Dermocosméticos",
+      "descricao": "Máscara Para Cilios Vult Bombastic Volume",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Frimel%20vult.jpg?alt=media&token=1aa109a4-3119-4aa5-8722-981a6e1a3394",
+      "pesquisa": "RIMEL",
+      "preco": 39.9,
+      "titulo": "Máscara Para Cilios Vult Bombastic Volume"
+    },
+    "4 PRSC ALG APL BL": {
+      "categoria": "Primeiros Socorros",
+      "departamento": "Saúde",
+      "descricao": "Algodão Apolo Bola Hidrófilo 100g",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Falgodaobola_2.jpg?alt=media&token=ef8816a7-76e2-4007-87b2-99b593babdb5",
+      "pesquisa": "ALGODAO",
+      "preco": 5.5,
+      "titulo": "Algodão Apolo Bola Hidrófilo"
+    },
+    "4 PRSC BAID JHN NRM": {
+      "categoria": "Primeiros Socorros",
+      "departamento": "Saúde",
+      "descricao": "Curativo Band Aid Transparente - 40 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fbandaid.jpg?alt=media&token=6277c217-3ebb-4209-bfb7-4abd01e0ad04",
+      "pesquisa": "BAND-AID",
+      "preco": 8.89,
+      "titulo": "Curativo Band Aid Transparente"
+    },
+    "4 PRSC ESP NXC MCRP": {
+      "categoria": "Primeiros Socorros",
+      "departamento": "Saúde",
+      "descricao": "Esparadrapo Nexcare Micropore 12mmx4,5m Bege",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fesparadrapofino_4.jpg?alt=media&token=a8ef5c62-e056-419b-825f-a40b1c0120e1",
+      "pesquisa": "ESPARADRAPO",
+      "preco": 8.5,
+      "titulo": "Esparadrapo Nexcare Micropore Bege"
+    },
+    "5 NY LUP INV": {
+      "categoria": "Roupa íntima",
+      "departamento": "Roupa",
+      "descricao": "Meia-Calça Lupo Invisível - Fio 7",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fmeiacalcalobanormal.jpg?alt=media&token=74cff07a-0802-4877-816a-f6fe14ca58fb",
+      "pesquisa": "MEIA",
+      "preco": 6.69,
+      "titulo": "Meia-Calça Lupo Invisível - Fio 7"
+    },
+    "5 NY TRF DED": {
+      "categoria": "Roupa íntima",
+      "departamento": "Roupa",
+      "descricao": "Meia-Calça Trifil Dedinho - Fio 10",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fmeiacalcatrifildedos.jpg?alt=media&token=4c4ae04b-ebb9-4f9c-baf2-f62848404289",
+      "pesquisa": "MEIA",
+      "preco": 19.5,
+      "titulo": "Meia-Calça Trifil Dedinho - Fio 10"
+    },
+    "5 NY TRF NRM": {
+      "categoria": "Roupa íntima",
+      "departamento": "Roupa",
+      "descricao": "Meia-Calça Trifil Opaca - Fio 40",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fmeiacalcatrifilnormal.jpg?alt=media&token=773879b4-18f2-4b3e-a135-8738702f5f1e",
+      "pesquisa": "MEIA",
+      "preco": 6.69,
+      "titulo": "Meia-Calça Trifil Opaca - Fio 40"
+    },
+    "5 SUT BARL INV": {
+      "categoria": "Roupa íntima",
+      "departamento": "Roupa",
+      "descricao": "Sutia Adesivo Bare Lifts Bege - 10 unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fsutiabarelifts_3.jpg?alt=media&token=e30d0bed-9686-4974-9941-26ea5315f4f5",
+      "pesquisa": "SUTIA",
+      "preco": 5.89,
+      "titulo": "Sutia Adesivo Bare Lifts Bege"
+    },
+    "5 SUT HOP INV": {
+      "categoria": "Roupa íntima",
+      "departamento": "Roupa",
+      "descricao": "Sutiã Hope Invisível Aderente Tamanho 40",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fsutiahope_3.jpg?alt=media&token=7472aa9d-4660-448f-9abd-b43f6bb71af6",
+      "pesquisa": "SUTIA",
+      "preco": 98,
+      "titulo": "Sutiã Hope Invisível Aderente"
+    },
+    "5 SUT LIB INV": {
+      "categoria": "Roupa íntima",
+      "departamento": "Roupa",
+      "descricao": "Modelador De Seios Lib Bege Descartável Tamanho 42 - 2 Unidades",
+      "imagem": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/produtos%2Fsutialib.jpg?alt=media&token=7a6dfab6-7e49-4f09-8ee4-fcf8805c8b07",
+      "pesquisa": "SUTIA",
+      "preco": 45.5,
+      "titulo": "Modelador De Seios Lib Bege Descartável"
+    }
+  },
+  "usuarios": {
+    "3BGGHC6f7qeE6gZfN56K0EEzsmN2": {
+      "caminhoFoto": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/imagens%2Fperfil%2F3BGGHC6f7qeE6gZfN56K0EEzsmN2.jpeg?alt=media&token=6626622b-d89c-44c7-a345-cbf0fcd71525",
+      "email": "x@x.com.br",
+      "id": "3BGGHC6f7qeE6gZfN56K0EEzsmN2",
+      "nome": "x"
+    },
+    "DPIsPCOnmtPaUgvVCaDuuu04dqh1": {
+      "caminhoFoto": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/imagens%2Fperfil%2FDPIsPCOnmtPaUgvVCaDuuu04dqh1.jpeg?alt=media&token=2bb4f779-98d5-4e22-8043-53f19ad87415",
+      "email": "z@z.com.br",
+      "id": "DPIsPCOnmtPaUgvVCaDuuu04dqh1",
+      "nome": "Jessica"
+    },
+    "NndjoWdq5SSH9P4w3FI0DygOx2D2": {
+      "caminhoFoto": "https://firebasestorage.googleapis.com/v0/b/first-ladys-kit-9349a.appspot.com/o/imagens%2Fperfil%2FNndjoWdq5SSH9P4w3FI0DygOx2D2.jpeg?alt=media&token=9c155775-f2c0-4b52-8fca-18b48b3ba5de",
+      "email": "jetsalles@gmail.com",
+      "id": "NndjoWdq5SSH9P4w3FI0DygOx2D2",
+      "nome": "Jéssica Salles"
+    }
+  }
+}
